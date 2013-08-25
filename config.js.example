@@ -1,0 +1,2 @@
+// Globals
+var MONGOHQ_URL = 'mongodb://<username>:<password>@paulo.mongohq.com:<port>/<db>';
